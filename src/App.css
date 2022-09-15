@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(152, 149, 149);
+}
+.Anotacoes{
+  width: 900%;
+  max-width: 900px;
+  background-color: darkslategrey;
+  padding: 50px 50px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
