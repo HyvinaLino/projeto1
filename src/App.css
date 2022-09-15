@@ -1,16 +1,17 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+header{
+  width: 100vw;
+  height: 90px;
+  background-color: rgb(145, 145, 166);
+  color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
 }
-body{
-  background-color: rgb(152, 149, 149);
+.Logo{
+  font-family: Andale Mono, monospace;
+  text-align: center;
 }
-.Anotacoes{
-  width: 900%;
-  max-width: 900px;
-  background-color: darkslategrey;
-  padding: 50px 50px;
-  margin: 10px auto;
-  border-radius: 10px;
+.Menu{
+  text-align: center;
 }
