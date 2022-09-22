@@ -17,7 +17,7 @@ export const Menu= () =>{
                     <Link to="/serviços">Serviços</Link>
                 </li>
                 <li>
-                    <Link to="/contatos">Contatos</Link>
+                    <Link to="/Contatos">Contatos</Link>
                 </li>
             </ul>
         </nav>

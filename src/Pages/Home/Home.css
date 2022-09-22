@@ -1,21 +1,20 @@
-body{
+.home{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
 }
 header{
     font-family: serif;
     font-size: 30px;
     color: crimson;
 }
-form {
-    margin: 900px;
-    width: 600px;
-    padding-right: 400px;
-    padding-left: 900px ;
-    padding: 20px;  
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    align-items: center;
+.form {
+    display: flex;
+   align-items: center;
+  
 }
 .button {
     padding-left: 80px; 
