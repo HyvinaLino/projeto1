@@ -1,12 +1,13 @@
-import "./style.css"
+import '../Menu/menu.css'
 import{ Link } from 'react-router-dom';
 
 
 export const Menu= () =>{
     return(
     <>
+    
      <header>
-            <h1 className="logo">Página inicial</h1>
+          
         <nav className="menu">
             <ul>
                 <li>
