@@ -14,7 +14,7 @@ export const Menu= () =>{
                     <Link to="/">Home</Link>
                 </li>
                 <li>
-                    <Link to="/serviços">Serviços</Link>
+                    <Link to="/Modelos">Modelos</Link>
                 </li>
                 <li>
                     <Link to="/Contatos">Contatos</Link>
