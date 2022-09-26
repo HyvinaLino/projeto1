@@ -1,5 +1,8 @@
 import { Menu } from "../../Components/Menu/Menu"
 import '../Contatos/Contatos.css'
+import zap from "./img/zap.png";
+import insta from "./img/insta.png";
+import email from "./img/email.png";
 export const Contatos = () => {
     return (
         <>
@@ -80,7 +83,10 @@ export const Contatos = () => {
         <button type="submit">Enviar seu cadastro</button>
     </div>
 </form> */}
+         
+    <h1>ou nos contate por</h1>
 
+    <img className="zap" src={zap} width="100"/><h4>(85)986303449</h4> <img className="insta" src={insta} width="80" /><h4>@h_vinw</h4> <img className="email" src={email} width="100" /><h4>linohyvina@gmail.com</h4> 
         </>
     )
 }

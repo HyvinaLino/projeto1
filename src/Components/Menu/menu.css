@@ -1,9 +1,10 @@
 *{
+  
   margin:0%;
 }
 
 .menu ul{
-  display: flex;
+ 
   gap: 2rem;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 30px;
@@ -12,9 +13,11 @@
 };
 
 .menu ul li{
+  
   padding: 1rem;
   text-align: center;
 };
 body{
+
   background-color: lightsteelblue;
 }

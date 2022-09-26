@@ -16,6 +16,7 @@
 */
 
 .formulario{
+   
     margin: 30px;
     align-items: center;
     text-align: center;
@@ -23,7 +24,12 @@
     border-style: ridge ;
 }
 body{
+   
     text-align: center;
     color:darkslategrey;
     background-color:white;
+}
+.zap{
+    text-align: center;
+    align-items: center;
 }
