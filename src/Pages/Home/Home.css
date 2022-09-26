@@ -1,8 +1,7 @@
 .home{
-   
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    display: flex;
     flex-direction: column;
     align-items: center;
     overflow-x: hidden;
