@@ -24,7 +24,7 @@
     border-style: ridge ;
 }
 body{
-   
+   display: flex;
     text-align: center;
     color:darkslategrey;
     background-color:white;
